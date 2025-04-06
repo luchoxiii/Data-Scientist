@@ -1,6 +1,6 @@
 # Exámenes de Ciencia de Datos
 
-Este repositorio contiene dos exámenes de Ciencia de Datos. A continuación se detallan los datasets asignados a cada examen:
+Este repositorio contiene tres exámenes de Ciencia de Datos. A continuación se detallan los datasets asignados a cada examen:
 
 ## Examen 1
 
