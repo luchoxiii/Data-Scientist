@@ -19,3 +19,9 @@ Este repositorio contiene tres exámenes de Ciencia de Datos. A continuación se
 - **Datasets Asignados**: `intermoda.parquet`, `intermoda1.parquet`
   - **Descripción**: En el dataset adjunto se encuentra la información de ventas de dos periodos de venta X, los cuales usted como científico de datos tendrá que explorar, clasificar, limpiar y mostrar análisis o descubrimientos, tomando en cuenta los atributos que el set de datos le ofrece. Es importante que puede hacer presunciones de datos que no existen de ser necesario para su análisis.
   - **Instrucciones**: En el presente documento se presentará una prueba técnica necesaria para el proceso de selección al puesto científico de datos. Deberá realizarla en el tiempo establecido y enviar la solución por correo electrónico con las evidencias solicitadas a continuación.
+ 
+
+## Examen 4
+
+- **Datasets Asignados**: `bank-additional-full.csv`
+  - **Descripción**: Evaluar los datos realizando un análisis descriptivo y evaluar una serie de modelos de clasificación. El objetivo final es elegir el modelo que mejor resultados obtiene prediciendo la columna 21, que representa si el cliente se suscribe al servicio correspondiente. El objetivo de clasificación binaria es predecir si el cliente suscribirá un depósito a plazo (variable y)
