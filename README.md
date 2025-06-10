@@ -9,5 +9,6 @@ Some Data Science Things
 - [Learn Python Begineers](https://www.youtube.com/watch?v=rfscVS0vtbw)
 - [StatQuest with Josh Starmer](https://www.youtube.com/@statquest/videos)
 - [Machine Learning with Python and Scikit-Learn](https://www.youtube.com/watch?v=hDKCxebp88A)
-- 
+- [ML interviews](https://huyenchip.com/ml-interviews-book/)
+- [ML for developers](https://madewithml.com/)
 
