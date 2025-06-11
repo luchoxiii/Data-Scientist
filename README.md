@@ -12,3 +12,8 @@ Some Data Science Things
 - [ML interviews](https://huyenchip.com/ml-interviews-book/)
 - [ML for developers](https://madewithml.com/)
 
+
+
+## Videos en Español
+
+- [Organizacion de los Datos UBA](https://www.youtube.com/@OrganizaciondeDatos/videos)
