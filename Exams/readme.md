@@ -25,3 +25,21 @@ Este repositorio contiene tres exámenes de Ciencia de Datos. A continuación se
 
 - **Datasets Asignados**: `bank-additional-full.csv`
   - **Descripción**: Evaluar los datos realizando un análisis descriptivo y evaluar una serie de modelos de clasificación. El objetivo final es elegir el modelo que mejor resultados obtiene prediciendo la columna 21, que representa si el cliente se suscribe al servicio correspondiente. El objetivo de clasificación binaria es predecir si el cliente suscribirá un depósito a plazo (variable y)
+
+
+## Examen 5
+
+- **Datasets Asignados**: `visitas_sucursal.csv`, `zonas.csv`
+  - **Descripción**: El banco PY está enfrentando un problema de retención de clientes. A partir de un experimento, se identificó que una vez que el cliente expresa su intención de darse de baja, ya no es posible revertir la situación. Se busca anticiparse a este comportamiento desarrollando un modelo que permita identificar, antes de que ocurra, si un cliente tiene alta probabilidad de darse de baja.
+  - **Instrucciones**: 
+    - Desarrollar un modelo de Machine Learning que prediga el churn del cliente.
+    - Justificar la elección del algoritmo utilizado.
+    - Evaluar el rendimiento del modelo y justificar si es apto para salir a producción.
+    - Analizar las variables que más influyen en la predicción.
+    - Definir cómo y cuándo se utilizaría el modelo en el flujo operativo.
+    - Determinar si existe overfitting o underfitting.
+    - Tener en cuenta los siguientes valores económicos en las decisiones:
+      - `costo_retencion = 20`
+      - `rentabilidad_corto = 8` (primeros 3 meses)
+      - `rentabilidad_largo = 50` (primer año)
+      - `rentabilidad_baja = -2` (cuando el cliente se da de baja)
