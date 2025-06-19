@@ -17,3 +17,12 @@ Some Data Science Things
 ## Videos en Español
 
 - [Organizacion de los Datos UBA](https://www.youtube.com/@OrganizaciondeDatos/videos)
+
+
+
+
+## Fuente de datos
+  
+  ### - Futbolisticos
+      - StatsBomb, Opta, Wyscout
+      - Hawkeye, Second Spectrum
