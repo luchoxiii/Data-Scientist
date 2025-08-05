@@ -14,7 +14,7 @@ Some Data Science Things
 
 
 
-## Videos en Español
+### Videos en Español
 
 - [Organizacion de los Datos UBA](https://www.youtube.com/@OrganizaciondeDatos/videos)
 
@@ -26,3 +26,12 @@ Some Data Science Things
   ### - Futbolisticos
       - StatsBomb, Opta, Wyscout
       - Hawkeye, Second Spectrum
+
+## Programa de DataScience
+
+- [Python Esencials](https://www.netacad.com/courses/python-essentials-1?courseLang=en-US)
+- [Python Esencials II](https://data-flair.training/courses/python-course/)
+- [Harvard Data Science Capsone](https://www.edx.org/learn/data-science/harvard-university-data-science-capstone)
+- [Harvard X Machine Learing](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning)
+- [Harvard Interference Model](https://www.edx.org/learn/data-science/harvard-university-data-science-inference-and-modeling)
+- [Harvard Probabilidad](https://www.edx.org/learn/probability/harvard-university-data-science-probability)
