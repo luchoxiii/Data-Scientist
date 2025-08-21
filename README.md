@@ -35,3 +35,7 @@ Some Data Science Things
 - [Harvard X Machine Learing](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning)
 - [Harvard Interference Model](https://www.edx.org/learn/data-science/harvard-university-data-science-inference-and-modeling)
 - [Harvard Probabilidad](https://www.edx.org/learn/probability/harvard-university-data-science-probability)
+
+## Aprender Estadistica
+
+- [3D one Brown](https://www.3blue1brown.com/)
