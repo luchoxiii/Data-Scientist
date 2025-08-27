@@ -39,3 +39,7 @@ Some Data Science Things
 ## Aprender Estadistica
 
 - [3D one Brown](https://www.3blue1brown.com/)
+
+## Recursos en Español (Paginas)
+
+- [Ciencia Aplicada](https://applied-science.com.ar/)
