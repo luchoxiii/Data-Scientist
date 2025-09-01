@@ -21,6 +21,8 @@ Some Data Science Things
 - [Pandas](https://www.youtube.com/playlist?list=PLCC34OHNcOtqSz7Ke7kaYRf9CfviJgO55)
 - [SKLearn](https://www.youtube.com/playlist?list=PLcQVY5V2UY4LNmObS0gqNVyNdVfXnHwu8)
 - [SKlearn Full](https://www.youtube.com/watch?v=hDKCxebp88A)
+- [100 dias de DeepLearing](https://www.youtube.com/playlist?list=PLKnIA16_RmvYuZauWaPlRTC54KxSNLtNn)
+- [100 dias de Machine Learning](https://www.youtube.com/playlist?list=PLKnIA16_Rmvbr7zKYQuBfsVkjoLcJgxHH)
   
 
 
