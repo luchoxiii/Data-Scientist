@@ -1,5 +1,7 @@
 ## Infomacion de Julia 
 
+<img width="567" height="680" alt="image" src="https://github.com/user-attachments/assets/b64a48ec-9279-49b4-ae5d-2dc4897b8068" />
+
 #### Canales de Youtube
 
 ### Español 
