@@ -139,6 +139,117 @@ El objetivo es comunicar los hallazgos a stakeholders no técnicos.
 - Narrativa convincente que conecte el análisis con decisiones de negocio
 
 ---
+# Examen 7
+
+La notebook correspondiente a este examen se llama Examen 7.pynb
+
+## Overview
+
+Este proyecto implementa un pipeline completo de datos sobre pares de divisas (Forex), incluyendo:
+
+- Ingesta de datos desde API
+- Análisis exploratorio (EDA)
+- Feature engineering
+- Entrenamiento de modelo de Machine Learning
+- Predicción diaria automatizada
+- Contenerización con Docker
+
+El objetivo es construir un sistema **funcional, reproducible y mantenible**.
+
+---
+
+## Tech Stack
+
+- Python 3.8+
+- Pandas / NumPy
+- Scikit-learn (u otro framework ML)
+- Requests
+- CLI: Click / Argparse / Typer
+- Logging
+- Docker
+
+---
+
+
+---
+
+## Data Source
+
+Se utiliza la API de Alpha Vantage para obtener datos históricos de Forex.
+
+- Símbolo principal: `EURGBP`
+- Rango: `2020-01-01` a `2024-12-31`
+
+---
+
+## Exploratory Data Analysis
+
+El análisis se encuentra en `notebooks/` e incluye:
+
+- Evolución de precios (Close)
+- Comparación anual (5 años superpuestos)
+- Volumen vs precio
+- Análisis de comportamiento y tendencias
+
+---
+
+## Feature Engineering
+
+Se construyen variables a partir de:
+
+### Indicadores técnicos
+- RSI
+- SMA
+- ATR
+
+### Features temporales
+- Día de la semana
+- Mes
+- Estacionalidad
+
+### Otras features
+- Definidas y justificadas durante el análisis
+
+---
+
+## Model
+
+### Objetivo
+
+Predecir si el **precio de cierre en T+1** será:
+
+- Mayor  
+- Menor  
+- Indeterminado  
+
+respecto a T.
+
+### Consideraciones
+
+- Se entrena un único modelo
+- La elección está justificada (no se prioriza performance extrema)
+- Se prioriza claridad, robustez y reproducibilidad
+
+---
+
+## Metrics
+
+Las métricas utilizadas se seleccionan en función del problema de clasificación (ej: accuracy, F1-score, etc.) y se justifican en el análisis.
+
+---
+
+## CLI Application
+
+Se implementa una aplicación de línea de comandos que:
+
+```bash
+python cli.py --symbol EURGBP
+```
+
+
+---
+
+# Examen 8
 
 ## ¡Lo más importante!
 
