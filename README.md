@@ -30,6 +30,7 @@ Some Data Science Things
 ### Videos en Español
 
 - [Organizacion de los Datos UBA](https://www.youtube.com/@OrganizaciondeDatos/videos)
+- [3D one Brown](https://www.youtube.com/@3blue1brownespanol/featured)
 
 
 
