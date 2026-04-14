@@ -57,3 +57,10 @@ Some Data Science Things
 ## Recursos en Español (Paginas)
 
 - [Ciencia Aplicada](https://applied-science.com.ar/)
+
+
+---
+
+Ayudas
+
+<img width="717" height="604" alt="image" src="https://github.com/user-attachments/assets/0108ca72-da33-4762-a62b-c1b6563fb34a" />
