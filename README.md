@@ -64,3 +64,5 @@ Some Data Science Things
 Ayudas
 
 <img width="717" height="604" alt="image" src="https://github.com/user-attachments/assets/0108ca72-da33-4762-a62b-c1b6563fb34a" />
+<img width="651" height="849" alt="image" src="https://github.com/user-attachments/assets/db3a54ce-a10b-4034-8043-8eabc3dc30e1" />
+
