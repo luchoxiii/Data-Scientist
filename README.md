@@ -31,7 +31,8 @@ Some Data Science Things
 
 - [Organizacion de los Datos UBA](https://www.youtube.com/@OrganizaciondeDatos/videos)
 - [3D one Brown](https://www.youtube.com/@3blue1brownespanol/featured)
-
+- [Argueta Labs](https://www.youtube.com/@ArguetaLab/videos)
+- [Bluehat Programacion](https://www.youtube.com/@programacionbluehat/videos)
 
 
 
