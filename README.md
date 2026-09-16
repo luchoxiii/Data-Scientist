@@ -50,6 +50,9 @@ Some Data Science Things
 - [Harvard X Machine Learing](https://www.edx.org/learn/machine-learning/harvard-university-data-science-machine-learning)
 - [Harvard Interference Model](https://www.edx.org/learn/data-science/harvard-university-data-science-inference-and-modeling)
 - [Harvard Probabilidad](https://www.edx.org/learn/probability/harvard-university-data-science-probability)
+- [Diseño de ML Systems](https://github.com/chiphuyen/dmls-book)
+- [ML with Keras & Tensorflow](https://github.com/ageron/handson-ml3)
+- [LLM Engenieer](https://github.com/PacktPublishing/LLM-Engineers-Handbook)
 
 ## Aprender Estadistica
 
